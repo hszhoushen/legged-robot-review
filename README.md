@@ -1,7 +1,7 @@
-# legged-robot-review
+# Legged-robot-review
 mainly covers the quadruped robot
 
-# world famous lab
+# World famous lab
 ETH Robotic Systems Lab ANYmal
 
 http://www.rsl.ethz.ch/the-lab.html
