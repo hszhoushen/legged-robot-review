@@ -1,5 +1,5 @@
 # Legged-robot-review
-mainly covers the quadruped robot
+This paper mainly covers the quadruped robot as follows: starlETH, ANYmal, MIT Cheetah.
 
 # World famous lab
 ETH Robotic Systems Lab ANYmal
